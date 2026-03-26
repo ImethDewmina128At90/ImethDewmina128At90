@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imeth dewmina Rathnayaka</h1>
 <h3 align="center">Undergraduate at the University of Westminster 👩‍💻 Enthusiastic about cloud computing, full-stack (MERN) development, and networking</h3>
 
-- 🔭 I’m currently working on [SDGP-Navkid](https://github.com/ThanushanSri24/SDGP-)
+- 🔭 I’m currently Looking for Interships in DevOps/cloud computing & Mern Stack developement
 
 - 🌱 I’m currently learning **React.js,node.js**
 
