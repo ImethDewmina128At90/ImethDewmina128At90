@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-* 🔭 Currently looking for **Internships in DevOps / Cloud Computing / MERN Stack Development**
+* 🔭 Currently doing **Internships in DevOps / Cloud Computing / MERN Stack Development**
 * 🌱 Learning **MernStrack and Cloud Technologies**
 * 💡 Interested in **scalable backend systems, networking, and cloud infrastructure**
 * 📫 Reach me at: **[imeth128@gmail.com](mailto:imeth128@gmail.com)**
